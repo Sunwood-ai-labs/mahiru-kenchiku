@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 256">
+  <title>MAHIRU lockup B (exploration — live text, not final artwork)</title>
+  <circle cx="128" cy="46" r="15" fill="#000"/>
+  <path d="M40,196 V84 H78 L128,134 L178,84 H216 V196 H176 V124 L128,172 L80,124 V196 Z" fill="#000"/>
+  <text x="292" y="148" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="6" fill="#000">MAHIRU</text>
+  <text x="296" y="198" font-family="Helvetica, Arial, sans-serif" font-size="33" letter-spacing="14" fill="#000">KENCHIKU</text>
+</svg>

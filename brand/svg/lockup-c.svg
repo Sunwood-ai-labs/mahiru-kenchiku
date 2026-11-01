@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 256">
+  <title>MAHIRU lockup C (exploration — live text, not final artwork)</title>
+  <path fill-rule="evenodd" fill="#000" d="M128,36 A92,92 0 1 1 127.9,36 Z M128,84 L172,120 H164 V168 H92 V120 H84 Z M64,180 H192 V190 H64 Z"/>
+  <text x="292" y="148" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="6" fill="#000">MAHIRU</text>
+  <text x="296" y="198" font-family="Helvetica, Arial, sans-serif" font-size="33" letter-spacing="14" fill="#000">KENCHIKU</text>
+</svg>

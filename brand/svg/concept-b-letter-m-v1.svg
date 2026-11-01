@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>MAHIRU concept B — M whose valley is a roof, sun above the valley</title>
+  <circle cx="128" cy="40" r="15" fill="#000"/>
+  <path d="M40,184 V72 H78 L128,126 L178,72 H216 V184 H176 V112 L128,158 L80,112 V184 Z" fill="#000"/>
+</svg>
