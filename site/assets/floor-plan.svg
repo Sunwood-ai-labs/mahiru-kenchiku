@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 980" role="img" aria-label="MAHIRU Model 01 間取り概念図">
+  <title>MAHIRU Model 01 — 間取り概念図（面積実測に基づく再構成）</title>
+  <!-- dimensions (scale: 100px = 1m; house 11.0 x 8.5 m) -->
+  <g font-family="sans-serif" font-size="26" fill="#4a4a4a">
+    <text x="650" y="45" text-anchor="middle">11.0 m</text>
+    <text x="40" y="515" text-anchor="middle" transform="rotate(-90 40 515)">8.5 m</text>
+  </g>
+  <g stroke="#9aa5b1" stroke-width="2">
+    <line x1="100" y1="66" x2="1200" y2="66"/>
+    <line x1="100" y1="58" x2="100" y2="74"/>
+    <line x1="1200" y1="58" x2="1200" y2="74"/>
+    <line x1="72" y1="90" x2="72" y2="940"/>
+    <line x1="64" y1="90" x2="80" y2="90"/>
+    <line x1="64" y1="940" x2="80" y2="940"/>
+  </g>
+  <!-- rooms: top Living 6.0x5.0 + Kitchen 5.0x5.0; bottom Bedroom 5.0x3.5 + Bath 2.5x3.5 + Flexible 3.5x3.5 -->
+  <g stroke="none">
+    <rect x="100" y="90" width="600" height="500" fill="#f4f2ec"/>
+    <rect x="700" y="90" width="500" height="500" fill="#e8edf2"/>
+    <rect x="100" y="590" width="500" height="350" fill="#f7f3ea"/>
+    <rect x="600" y="590" width="250" height="350" fill="#e8edf2"/>
+    <rect x="850" y="590" width="350" height="350" fill="#eef3e8"/>
+  </g>
+  <rect x="100" y="90" width="1100" height="850" fill="none" stroke="#1a1a1a" stroke-width="10"/>
+  <g stroke="#1a1a1a" stroke-width="4">
+    <line x1="700" y1="90" x2="700" y2="590"/>
+    <line x1="100" y1="590" x2="1200" y2="590"/>
+    <line x1="600" y1="590" x2="600" y2="940"/>
+    <line x1="850" y1="590" x2="850" y2="940"/>
+  </g>
+  <g font-family="sans-serif" fill="#1a1a1a" text-anchor="middle">
+    <text x="400" y="325" font-size="42" font-weight="700">リビング</text>
+    <text x="400" y="372" font-size="28" fill="#4a4a4a">30.0 m²</text>
+    <text x="950" y="325" font-size="42" font-weight="700">キッチン</text>
+    <text x="950" y="372" font-size="28" fill="#4a4a4a">25.0 m²</text>
+    <text x="350" y="750" font-size="38" font-weight="700">主寝室</text>
+    <text x="350" y="795" font-size="26" fill="#4a4a4a">17.5 m²</text>
+    <text x="725" y="750" font-size="30" font-weight="700">バスルーム</text>
+    <text x="725" y="792" font-size="24" fill="#4a4a4a">8.75 m²</text>
+    <text x="1025" y="750" font-size="38" font-weight="700">可変室</text>
+    <text x="1025" y="795" font-size="26" fill="#4a4a4a">12.25 m²</text>
+  </g>
+</svg>
